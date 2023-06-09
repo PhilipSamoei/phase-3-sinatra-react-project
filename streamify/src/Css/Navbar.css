@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Raleway:ital,wght@0,600;1,900&family=Roboto:ital,wght@1,500&display=swap');
+
+.ify{
+    color:#3E3636 ;
+}
+body{
+    background-color: black;
+    color: azure;
+}
+/* Navbar.css */
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 35px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 35px;
+}
+
+.ify {
+  font-weight: bold;
+  color:chocolate;
+  font-size: 35px;
+  
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-right: 60px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sign {
+  background-color: #fff;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.sign:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+  
